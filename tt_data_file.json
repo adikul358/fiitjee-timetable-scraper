@@ -1,0 +1,32 @@
+[
+    {
+        "date": "July 23 2019",
+        "classes": [
+            {
+                "start": "16:30",
+                "end": "18:00",
+                "name": "PRGS"
+            },
+            {
+                "start": "18:15",
+                "end": "19:45",
+                "name": "BSSN"
+            }
+        ]
+    },
+    {
+        "date": "July 24 2019",
+        "classes": [
+            {
+                "start": "16:30",
+                "end": "18:00",
+                "name": "MNP"
+            },
+            {
+                "start": "18:15",
+                "end": "19:45",
+                "name": "MNP"
+            }
+        ]
+    }
+]
